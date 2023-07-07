@@ -1,0 +1,25 @@
+/* .cuerpo{
+    margin-top: 5%;
+    margin-left: 10%;
+} */
+#titulo{
+    display: table;
+    margin: auto;
+    text-align: center;
+}
+h2{
+
+    display: table;
+    margin: auto;
+
+}
+footer{
+    display: table;
+    margin-top: 5%;
+    width: 100%;
+    height: 100px;
+    background-color: #bebe9d;
+    color: black;
+    text-align: center;
+    padding-top: 1.5%;
+}
